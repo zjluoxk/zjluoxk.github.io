@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "From Certainty to Uncertainty"
-date:       2020-11-08 22:07:53 +0000
+date:       2020-11-08 17:07:54 -0500
 permalink:  from_certainty_to_uncertainty
 ---
 
