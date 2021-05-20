@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Scraping EDGAR from SEC"
-date:       2021-05-20 00:41:29 +0000
+date:       2021-05-19 20:41:29 -0400
 permalink:  scraping_edgar_from_sec
 ---
 
